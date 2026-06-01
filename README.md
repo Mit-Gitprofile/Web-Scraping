@@ -1,5 +1,7 @@
 # Web-Scraping
 
+## Live Scraping Summary -> https://web-scraping-beta-neon.vercel.app/
+
 # 🛒 Flipkart Mobile Price Scraper
 
 > A Python web scraping project that extracts **216 mobile product listings** from Flipkart across 10 paginated search result pages — collecting product names, prices, specifications, and ratings into a structured CSV dataset.
